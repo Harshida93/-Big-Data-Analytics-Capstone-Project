@@ -1,5 +1,4 @@
-USE [Bindu_Studies]
-GO
+
 
 /****** Object:  Table [dbo].[CrimeAddress]    Script Date: 11/07/2019 11:06:21 ******/
 SET ANSI_NULLS ON
