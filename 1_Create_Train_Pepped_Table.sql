@@ -1,5 +1,4 @@
-USE [Bindu_Studies]
-GO
+
 
 /****** Object:  Table [dbo].[Train_Prepped]    Script Date: 11/06/2019 16:00:13 ******/
 SET ANSI_NULLS ON
